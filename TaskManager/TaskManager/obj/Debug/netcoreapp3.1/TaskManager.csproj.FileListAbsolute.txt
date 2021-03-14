@@ -1,0 +1,13 @@
+C:\Users\LatichxGod\source\repos\TaskManager\TaskManager\bin\Debug\netcoreapp3.1\TaskManager.exe
+C:\Users\LatichxGod\source\repos\TaskManager\TaskManager\bin\Debug\netcoreapp3.1\TaskManager.deps.json
+C:\Users\LatichxGod\source\repos\TaskManager\TaskManager\bin\Debug\netcoreapp3.1\TaskManager.runtimeconfig.json
+C:\Users\LatichxGod\source\repos\TaskManager\TaskManager\bin\Debug\netcoreapp3.1\TaskManager.runtimeconfig.dev.json
+C:\Users\LatichxGod\source\repos\TaskManager\TaskManager\bin\Debug\netcoreapp3.1\TaskManager.dll
+C:\Users\LatichxGod\source\repos\TaskManager\TaskManager\bin\Debug\netcoreapp3.1\TaskManager.pdb
+C:\Users\LatichxGod\source\repos\TaskManager\TaskManager\obj\Debug\netcoreapp3.1\TaskManager.csprojAssemblyReference.cache
+C:\Users\LatichxGod\source\repos\TaskManager\TaskManager\obj\Debug\netcoreapp3.1\TaskManager.AssemblyInfoInputs.cache
+C:\Users\LatichxGod\source\repos\TaskManager\TaskManager\obj\Debug\netcoreapp3.1\TaskManager.AssemblyInfo.cs
+C:\Users\LatichxGod\source\repos\TaskManager\TaskManager\obj\Debug\netcoreapp3.1\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\LatichxGod\source\repos\TaskManager\TaskManager\obj\Debug\netcoreapp3.1\TaskManager.dll
+C:\Users\LatichxGod\source\repos\TaskManager\TaskManager\obj\Debug\netcoreapp3.1\TaskManager.pdb
+C:\Users\LatichxGod\source\repos\TaskManager\TaskManager\obj\Debug\netcoreapp3.1\TaskManager.genruntimeconfig.cache
