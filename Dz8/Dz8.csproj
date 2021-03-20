@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Description>Данная программа запрашивает ваши данные и сохраняет их в конфиг</Description>
+    <Copyright>ООО"ТемаКод"</Copyright>
+    <AssemblyVersion>1.2.3.4</AssemblyVersion>
+    <FileVersion>1.2.3.4</FileVersion>
+    <Version>1.1.1</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.0-preview.2.21154.6" />
+  </ItemGroup>
+
+</Project>
